@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "WfznPx3kf4wPM8iSZfswR226WREFTiutqcv86GG+uepaoYzgqz1o4a5q1axeCzouUS3vaDl01FXPP6qUfkCKEw==",
+  "success": true,
+  "projectFilePath": "C:\\Mehdi\\test\\IoTHub\\iot recieve data\\test wpf\\test wpf\\test wpf.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SC-24697\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
+    "C:\\Users\\SC-24697\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\SC-24697\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

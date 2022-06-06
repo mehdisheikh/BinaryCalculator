@@ -1,0 +1,24 @@
+C:\Mehdi\test\IoTHub\iot recieve data\test wpf\test wpf\bin\Debug\net6.0-windows\test wpf.exe
+C:\Mehdi\test\IoTHub\iot recieve data\test wpf\test wpf\bin\Debug\net6.0-windows\test wpf.deps.json
+C:\Mehdi\test\IoTHub\iot recieve data\test wpf\test wpf\bin\Debug\net6.0-windows\test wpf.runtimeconfig.json
+C:\Mehdi\test\IoTHub\iot recieve data\test wpf\test wpf\bin\Debug\net6.0-windows\test wpf.dll
+C:\Mehdi\test\IoTHub\iot recieve data\test wpf\test wpf\bin\Debug\net6.0-windows\test wpf.pdb
+C:\Mehdi\test\IoTHub\iot recieve data\test wpf\test wpf\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Mehdi\test\IoTHub\iot recieve data\test wpf\test wpf\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Mehdi\test\IoTHub\iot recieve data\test wpf\test wpf\obj\Debug\net6.0-windows\test wpf.csproj.AssemblyReference.cache
+C:\Mehdi\test\IoTHub\iot recieve data\test wpf\test wpf\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Mehdi\test\IoTHub\iot recieve data\test wpf\test wpf\obj\Debug\net6.0-windows\App.g.cs
+C:\Mehdi\test\IoTHub\iot recieve data\test wpf\test wpf\obj\Debug\net6.0-windows\test wpf_MarkupCompile.cache
+C:\Mehdi\test\IoTHub\iot recieve data\test wpf\test wpf\obj\Debug\net6.0-windows\test wpf_MarkupCompile.lref
+C:\Mehdi\test\IoTHub\iot recieve data\test wpf\test wpf\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Mehdi\test\IoTHub\iot recieve data\test wpf\test wpf\obj\Debug\net6.0-windows\test wpf.g.resources
+C:\Mehdi\test\IoTHub\iot recieve data\test wpf\test wpf\obj\Debug\net6.0-windows\test wpf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mehdi\test\IoTHub\iot recieve data\test wpf\test wpf\obj\Debug\net6.0-windows\test wpf.AssemblyInfoInputs.cache
+C:\Mehdi\test\IoTHub\iot recieve data\test wpf\test wpf\obj\Debug\net6.0-windows\test wpf.AssemblyInfo.cs
+C:\Mehdi\test\IoTHub\iot recieve data\test wpf\test wpf\obj\Debug\net6.0-windows\test wpf.csproj.CoreCompileInputs.cache
+C:\Mehdi\test\IoTHub\iot recieve data\test wpf\test wpf\obj\Debug\net6.0-windows\test wpf.csproj.CopyComplete
+C:\Mehdi\test\IoTHub\iot recieve data\test wpf\test wpf\obj\Debug\net6.0-windows\test wpf.dll
+C:\Mehdi\test\IoTHub\iot recieve data\test wpf\test wpf\obj\Debug\net6.0-windows\refint\test wpf.dll
+C:\Mehdi\test\IoTHub\iot recieve data\test wpf\test wpf\obj\Debug\net6.0-windows\test wpf.pdb
+C:\Mehdi\test\IoTHub\iot recieve data\test wpf\test wpf\obj\Debug\net6.0-windows\test wpf.genruntimeconfig.cache
+C:\Mehdi\test\IoTHub\iot recieve data\test wpf\test wpf\obj\Debug\net6.0-windows\ref\test wpf.dll
